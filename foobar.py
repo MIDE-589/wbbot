@@ -5,4 +5,4 @@ for i in list(range(10,100,5)):
 a="I'm %(name)s. I'm %(age)d year old" % {'name':'Vamei', 'age':99}
 print(a)
 print(type(a))
-print(math.e)
+print(math.e*3)
